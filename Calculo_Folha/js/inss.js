@@ -14,6 +14,7 @@ function calcularInss() {
     var aliqFaixa3 = 0.12
     var aliqFaixa4 = 0.14
 
+    
     var inssTeto = 951.63;
 
     //-----------------------//
